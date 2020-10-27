@@ -1,0 +1,92 @@
+.signinbutton
+{
+  background: none;
+  border: none;
+}
+
+.homelogo-signin
+{
+  width: 35vh;
+  height: auto;
+  padding: 2vh;
+  padding-bottom: 1vh;
+  padding-left: 10vh;
+}
+.login-form
+{
+  margin-top: 10vh;
+  text-align: center;
+  justify-content: center
+}
+.login-h1
+{
+  font-size: 4vh;
+  font-weight: bold;
+  padding: 2vh;
+}
+.signin-button
+{
+  width: 50vh;
+  align-items: center;
+  margin: auto;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
+}
+.signin-form
+{
+  width: 50vh;
+  align-items: center;
+  margin: auto;
+  margin-top: 5vh;
+}
+.insider
+{
+  display: inline-flex;
+}
+.getstart-button
+{
+  margin: 2vh;
+}
+.getstart-p
+{
+  margin-top: 3vh;
+}
+.find-agent-div
+{
+  text-align: center;
+  justify-content: space-between
+}
+.agent-h1
+{
+  color: white;
+  font-size: 4.5vh;
+  padding-top: 20vh;
+  font-weight: bold;
+}
+.agent-button
+{
+  margin: 2vh;
+  width: 26vh;
+  height: 28vh;
+}
+.agent-button:hover
+{
+  margin-top: 1vh;
+}
+.logo-agent
+{
+  color: blue;
+  width: 6vh;
+}
+
+h6
+{
+  font-weight: bold;
+  font-size: 3vh;
+}
+.agent-p
+{
+  font-size: 2vh;
+  color: grey;
+  font-weight: bold;
+}

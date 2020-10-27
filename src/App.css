@@ -1,0 +1,45 @@
+.nav-link {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-link:hover {
+  color: rgb(216, 216, 216);
+}
+.header-text {
+  font-size: 1.1rem;
+}
+.input-box-container {
+  background-color: white;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+.section-heading {
+  color: #273553;
+  font-size: 2.2rem;
+}
+
+.section-text {
+  font-size: 1.1rem;
+  color: #273553;
+}
+
+.active-header-link {
+  border-bottom: 3px solid white;
+}
+
+@media (max-width: 576px) {
+  .section-heading {
+    font-size: 1.9rem;
+  }
+  .section-text {
+    font-size: 1rem;
+  }
+  .header-heading {
+    font-size: 2rem;
+  }
+  .header-text {
+    font-size: 1rem;
+  }
+}
